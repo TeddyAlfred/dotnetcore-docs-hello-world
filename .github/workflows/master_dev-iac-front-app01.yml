@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dev-iac-front-app01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53722271694A464C89F8F31A02CACBCE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD945EF74DAC4E0C87E27384159FF942 }}
           package: .
